@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/C:/PROYECTOS/java/SalonDeBelleza/Java%2520Salon%2520de%2520belleza/SalonDeBelleza.AccesoADatos/test/salondebelleza/accesoadatos/ClienteDALIT.java</file>
+            <file>file:/C:/PROYECTOS/java/SalonDeBelleza/Java%2520Salon%2520de%2520belleza/SalonDeBelleza.AccesoADatos/src/salondebelleza/accesoadatos/ClienteDAL.java</file>
+=======
+            <file>file:/C:/PROYECTOS/java/SalonDeBelleza/Java%2520Salon%2520de%2520belleza/SalonDeBelleza.AccesoADatos/test/salondebelleza/accesoadatos/UsuarioDALIT.java</file>
+            <file>file:/C:/PROYECTOS/java/SalonDeBelleza/Java%2520Salon%2520de%2520belleza/SalonDeBelleza.AccesoADatos/src/salondebelleza/accesoadatos/UsuarioDAL.java</file>
+        </group>
+        <group name="Java%20Salon%20de%20belleza">
+            <file>file:/C:/PROYECTOS/java/SalonDeBelleza/Java%2520Salon%2520de%2520belleza/SalonDeBelleza.AccesoADatos/test/salondebelleza/accesoadatos/RolDALIT.java</file>
+>>>>>>> 63bfcbf4d470496b2db40fdc26f253d18092f856
+            <file>file:/C:/PROYECTOS/java/SalonDeBelleza/Java%2520Salon%2520de%2520belleza/SalonDeBelleza.AccesoADatos/test/salondebelleza/accesoadatos/ComunDBIT.java</file>
+            <file>file:/C:/PROYECTOS/java/SalonDeBelleza/Java%2520Salon%2520de%2520belleza/SalonDeBelleza.AccesoADatos/src/salondebelleza/accesoadatos/ServicioDAL.java</file>
+        </group>
+<<<<<<< HEAD
+=======
+        <group name="SysSeguridad.AccesoADatos"/>
+>>>>>>> 63bfcbf4d470496b2db40fdc26f253d18092f856
+    </open-files>
+</project-private>
